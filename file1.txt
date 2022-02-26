@@ -1,0 +1,36 @@
+STREETS VS TIME
+
+
+1 for Green and 0 for Red 
+
+
+chennai - [0, 0, 0, 1, 1, 0, 0]
+manali - [0, 1, 0, 0, 0, 0, 0]
+mumbai - [0, 0, 0, 0, 0, 0, 0]
+delhi - [1, 1, 1, 1, 0, 0, 0]
+indore - [1, 1, 1, 1, 1, 1, 1]
+agra - [0, 0, 1, 0, 1, 0, 0]
+varanasi - [0, 0, 1, 1, 0, 0, 0]
+madras - [1, 1, 0, 0, 0, 0, 0]
+delhi - [1, 1, 1, 1, 1, 1, 1]
+dehradun - [1, 1, 1, 1, 1, 1, 1]
+
+
+
+CAR-PATH VS TIME
+
+CAR 1 :-
+
+0 - dehradun   1 - manali   2 - agra   3 - chennai   4 - chennai   
+
+
+CAR 2 :-
+
+0 - delhi   1 - delhi   2 - varanasi   3 - varanasi   4 - agra   
+
+
+CAR 3 :-
+
+0 - madras   1 - madras   2 - delhi   3 - delhi   4 - dehradun   5 - dehradun   6 - dehradun   7 - indore   
+
+
