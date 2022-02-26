@@ -61,13 +61,12 @@ Note - Press the button for testcases within 20 secs of compilation otherwise it
 2) After pressing the button for test case the input file preview for that test case is shown on the interface and the corresponding visual simulation opens within a few seconds.  
 
 
-**OOPs Concepts** :- 
+**Concepts and tools used** :- 
 
 1) Inheritance 
-2) Polymorphism (Overloading , Overriding toString)
-3) Abstraction
-4) Interfaces (Comparator)
-5) Collections Framework ( Hashmap , Comparable)
-6) Exception Handling 
-7) Encapsulation (Data Hiding)
-8) Swing 
+2) Abstraction
+3) Interfaces (Comparator)
+4) Collections Framework (Hashmap, Comparable)
+5) Exception Handling 
+6) Java Swing 
+7) GraphStream Dynamic Library
