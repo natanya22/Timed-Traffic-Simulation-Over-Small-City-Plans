@@ -1,5 +1,5 @@
 # Traffic-Signaling-Optimisation-Project
- Google Hash Code Problem Traffic Signaling Java Project using Java Swing and Graph Stream Library
+ Inspired by the Google Hash Code Problem on Traffic Signaling. This is a Java Project that uses Java Swing and Graph Stream Library.
 
  **Important** - 
 
@@ -58,35 +58,10 @@ Example Input -
 
 Note - Press the button for testcases within 20 secs of compilation otherwise it will throw nullPointerException 
 
-2) After pressing the button for test case the input file preview for that test case is shown on the interface and the corresponding visual simulation opens .  
-
-
-
-
-**Simulation** :- 
-
-Output 
-
-1) Tc buttons & download constructor , lambda expressions    
-
-2) Download Button method 
-
-
+2) After pressing the button for test case the input file preview for that test case is shown on the interface and the corresponding visual simulation opens within a few seconds.  
 
 
 **OOPs Concepts** :- 
-
-*Classes*- 
-
-1) Streets 
-2) Intersection Schedules 
-3) Priority 
-4) 2 Pair classes 
-5) Download
-6) 
-
-
-Concepts :- 
 
 1) Inheritance 
 2) Polymorphism (Overloading , Overriding toString)
@@ -96,25 +71,3 @@ Concepts :-
 6) Exception Handling 
 7) Encapsulation (Data Hiding)
 8) Swing 
-
-9) Packages -  org.graphstream.graph.*,  javax.swing.*, java.lang, awt
-
-
-**Conclusion and Limitation**
-
-1) This is an *optimisation* based problem so as the no. of intersections, streets and cars are incr. the complexity of the city plan increases and the efficiency of the code decreases that's why it is named as traffic signalling optimisation .
-
-2) The program requires input within 20 secs of compilation . 
-
-
-
-
-
-
-
-
-
-javac -cp .:/Users/nat/Desktop/traffic/src/gs-algo-2.0.jar:/Users/nat/Desktop/traffic/src/gs-ui-swing-2.0.jar:/Users/nat/Desktop/traffic/src/gs-core-2.0.jar main1.java Output.java
-
-java -cp .:/Users/nat/Desktop/traffic/src/gs-algo-2.0.jar:/Users/nat/Desktop/traffic/src/gs-ui-swing-2.0.jar:/Users/nat/Desktop/traffic/src/gs-core-2.0.jar main1
-Exception in 
