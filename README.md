@@ -24,19 +24,26 @@
  
 Simulation Time , No. of Intersections , No. of Streets, No. of Cars, Bonus Points 
 
-(Intersection Start, Intersection End, Street Name, Street Time ) times no. of streets 
+(Intersection Start, Intersection End, Street Name, Street Time ) x no. of streets 
 
-(No. of streets in a car path , Street1, Street2 , ....... ) times no. of cars 
+(No. of streets in a car path , Street1, Street2 , ....... ) x no. of cars 
 
 Example Input - 
 
 6 4 5 2 1000
+
 2 0 rue-de-londres 1
+
 0 1 rue-d-amsterdam 1
+
 3 1 rue-d-athenes 1
+
 2 3 rue-de-rome 2
+
 1 2 rue-de-moscou 3
+
 4 rue-de-londres rue-d-amsterdam rue-de-moscou rue-de-rome
+
 4 rue-d-athenes rue-de-moscou rue-de-londres rue-d-amsterdam
 
 
