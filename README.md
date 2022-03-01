@@ -30,7 +30,7 @@ Simulation Time , No. of Intersections , No. of Streets, No. of Cars, Bonus Poin
 (No. of streets in a car path , Street1, Street2 , ....... ) x no. of cars 
 
 
-**Example Input - 
+**Example Input - **
 
 6 4 5 2 1000
 
