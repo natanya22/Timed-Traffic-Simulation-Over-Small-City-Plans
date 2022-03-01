@@ -1,5 +1,5 @@
 # Traffic-Signaling-Optimisation-Project
- Inspired by the Google Hash Code Problem on Traffic Signaling. This is a Java Project that uses Java Swing and Graph Stream Library.
+ Inspired by the Google Hash Code Problem on Traffic Signaling (help as many cars as possible reach their destination before a given deadline, and display this simulation as a graph). This is a Java Project that uses Java Swing and Graph Stream Library.
 
  **Important** - 
 
@@ -41,7 +41,7 @@ Example Input -
 
 
 
-**Through these inputs following outcomes** : - 
+**Through these inputs ,there are following outcomes** : - 
 
 1) *Car Path vs Time matrix* which denotes the street on which the car is at a particular time (manages *delay* which is occuring due to another car encountered in it's path).
 
