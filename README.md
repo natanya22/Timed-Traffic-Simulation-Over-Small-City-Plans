@@ -1,5 +1,6 @@
 # Traffic-Signaling-Optimisation-Project
  Inspired by the Google Hash Code Problem on Traffic Signaling (help as many cars as possible reach their destination before a given deadline, and display this simulation as a graph). This is a Java Project that uses Java Swing and Graph Stream Library.
+ 
 
  **Important** - 
 
@@ -19,7 +20,7 @@
 
  Creating effecient traffic schedules from given city plans 
 
- Given input test file , reading inputs for 
+ Given input test file , reading inputs for:
  
  
 Simulation Time , No. of Intersections , No. of Streets, No. of Cars, Bonus Points 
@@ -28,7 +29,8 @@ Simulation Time , No. of Intersections , No. of Streets, No. of Cars, Bonus Poin
 
 (No. of streets in a car path , Street1, Street2 , ....... ) x no. of cars 
 
-Example Input - 
+
+**Example Input - 
 
 6 4 5 2 1000
 
@@ -59,6 +61,7 @@ Example Input -
 4) The relevant output is printed on the console . 
 
 
+
 **Input Interface** :- 
 
 1) It manages multiple test cases accessible through the use of buttons. 
@@ -66,6 +69,7 @@ Example Input -
 Note - Press the button for testcases within 20 secs of compilation otherwise it will throw nullPointerException 
 
 2) After pressing the button for test case the input file preview for that test case is shown on the interface and the corresponding visual simulation opens within a few seconds.  
+
 
 
 **Concepts and tools used** :- 
